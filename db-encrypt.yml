@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: db-encrypt
+data:
+  username: cm9vdA== #root
+  password: QW5oZHVuZzEzMDI= #Anhdung1302
